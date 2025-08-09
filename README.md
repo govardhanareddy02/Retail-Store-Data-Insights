@@ -12,7 +12,7 @@ Business Problem
 
 Data Availability
 
-• The data set for the analysis comprises of three tables
+• The diagram below shows the relationships among the tables in the database schema.
 
 1. Customer: Customer Demographics
 2. Transactions: Customer Transaction Details
